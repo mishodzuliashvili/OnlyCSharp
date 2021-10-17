@@ -1,9 +1,12 @@
 using System;
 
-public class Class1
+namespace ConsoleApp1
 {
-	public Class1()
-	{
-		System.Console.WriteLine("Hello Jony");
-	}
+    internal class Class1
+    {
+        public void reaadd()
+        {
+            Console.Write("YESSS");
+        }
+    }
 }
