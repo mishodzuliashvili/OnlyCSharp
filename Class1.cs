@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         public void reaadd()
         {
-            Console.Write("YESSS");
+            Console.Write("great");
         }
     }
 }
